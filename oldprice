@@ -6,7 +6,7 @@
 <outlet id="1" instock="200"/>
 </outlets>
 <priceZones>
-<priceZone id="1" oldprice= "1500" price= "1200"/>
+<priceZone id="1" oldPrice= "1500" price= "1200"/>
 <priceZone id="2" price= "5000"/>
 </priceZones>
 </offer>
@@ -15,7 +15,8 @@
 <outlet id="1" instock="200"/>
 </outlets>
 <priceZones>
-<priceZone id="1" oldprice= "1600" price= "1300"/>
+<priceZone id="1" oldPrice= "1600" price= "1300"/>
+<priceZone id="1" oldprice= "1601" price= "1301"/>
 <priceZone id="2" price= "5001"/>
 </priceZones>
 </offer>
